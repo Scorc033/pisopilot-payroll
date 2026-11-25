@@ -2,6 +2,8 @@
 
 A lightweight payroll manager for Philippine peso (₱) payroll. It supports employee records and an audit history, a forecast-only payroll calendar, saved pay runs, editable per-run earnings and deductions, printable payslips, CSV export, and a light/dark theme toggle that remembers your preference in this browser.
 
+https://pisopilot-payroll.web.app/
+
 ## Run locally
 
 1. Install Node.js 20 or later.
